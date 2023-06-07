@@ -35,7 +35,7 @@
     │  └─temp.win-amd64-3.9\
     │      └─Release\
     ├─ground_truth：真值文件\
-    └─widerface_txt：测试生成文本文件\
+    └─widerface_txt：测试生成文本文件
 
 一些已经可以使用的百度云链接：\
 widerface数据集：链接：https://pan.baidu.com/s/1CzuwzcwRccf_Qv8Geemziw?pwd=pcei 提取码：pcei \
